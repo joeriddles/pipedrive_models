@@ -1,4 +1,4 @@
-This repo demonstrates how to automatically generate [Pydantic](https://docs.pydantic.dev/latest/) models.
+This repo demonstrates how to automatically generate [Pydantic](https://docs.pydantic.dev/latest/) models for the [Pipedrive API](https://pipedrive.readme.io/docs/getting-started).
 
 Generate models:
 ```shell
